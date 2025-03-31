@@ -1,0 +1,18 @@
+# Dependências do Node.js e Bun  
+node_modules/  
+bun.lockb  
+package-lock.json  
+
+# Build e cache  
+dist/  
+build/  
+.vite/  
+
+# Variáveis de ambiente  
+.env  
+
+# Logs e arquivos temporários  
+logs/  
+*.log  
+.vscode/  
+.DS_Store  
